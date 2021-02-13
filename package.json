@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/MCBrandenburg/mocha-slack-reporter",
   "dependencies": {
+    "@slack/web-api": "^6.0.0",
     "node-slack": "0.0.7"
   }
 }
