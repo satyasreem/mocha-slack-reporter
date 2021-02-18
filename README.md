@@ -7,6 +7,7 @@ const reporterOptions = {
   username:   "MCBrandenburg",
   channel:    "#test",
   hook_url:   "team",
+  thread_ts:  "thread_ts id for slack threads",
   failIcon:   ":warning:",
   passIcon:   ":smile:",
   endIcon:    ":bulb:",
